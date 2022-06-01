@@ -13,7 +13,8 @@ Look through the code and make changes if you like.
 
 ### Tutorial ###
 Install Python 3  
-Run the script to install required package and make a text file for you to put the workshop links.  
+Download repo and extract zip file.  
+Run the script inside "Script_Folder" to install required package and make a text file for you to put the workshop links.  
 Open the file "Workshop Download List.txt".  
 Enter workshop link in new lines, look in "Workshop Link List.txt" for example.  
 
