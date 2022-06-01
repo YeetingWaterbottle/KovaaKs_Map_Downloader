@@ -1,3 +1,8 @@
+### IMPORTANT ###
+Make sure to extract the "Script_Folder" inside another folder if you don't want to make a big mess...
+The extracted map will be outside the "Script_Folder"
+
+
 ### What the Script do ###
 The script will read through the list of workshop links, download them, extract, and put it all in one folder.
 The maps will be downloaded from "http://steamworkshop.download/".
